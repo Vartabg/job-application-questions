@@ -1,0 +1,126 @@
+topic,section,label,forms,employers
+gender,eeoc,Gender,672,110
+gender,demographic,How would you describe your gender identity? (mark all that apply),114,20
+gender,demographic,Gender,55,7
+gender,demographic,How would you describe your gender identity?,48,10
+gender,demographic,Gender Identity,19,3
+gender,demographic,How do you identify? (gender identity),16,2
+gender,demographic,I identify my gender as:,16,2
+gender,demographic,I identify my gender as,12,2
+gender,custom,Please share your gender pronouns.,8,1
+gender,custom,"What are your preferred gender pronouns? (She/Her/Hers; He/Him/His; They/Them/Theirs, etc.)",8,1
+gender,custom,Which gender do you identify as?,8,1
+gender,demographic,Beyond the binary | We understand that gender expression and identity should not be conflated. What is your gender identity?,8,1
+gender,demographic,Gender Identity (optional),8,1
+gender,demographic,How would you describe your gender identity (please select one)?,8,1
+gender,demographic,How would you describe your gender?,8,1
+gender,demographic,Please select the gender which most accurately describes how you identify yourself,8,1
+gender,demographic,Voluntary Self-Identification of Gender,8,1
+gender,demographic,Voluntary Self-Identification of Gender and Gender Identity (Select one),8,1
+gender,demographic,What gender identity do you most closely identify with?,8,1
+gender,demographic,Gender (Mark all that apply):,4,1
+gender,demographic,Please indicate your gender identity,3,1
+gender,demographic,Voluntary Self-Identification of Gender:,1,1
+pronouns,custom,Pronouns,17,3
+pronouns,custom,What are your personal pronouns?,16,2
+pronouns,custom,What are your pronouns?,9,2
+pronouns,custom,"At Amperity, we respect everyone’s personal pronouns. By indicating yours we can ensure we refer to you respectfully.",8,1
+pronouns,custom,"At Samsara, we encourage employees to bring their whole selves to work (this includes applicants too!) Feel free to share your preferred name and pronouns (she/her, they/them, he/him, ze/zir etc.).",8,1
+pronouns,custom,How would you like to be addressed (e.g. your pronouns)?,8,1
+pronouns,custom,Inclusion and belonging are important to us at Yoodli. Please let us know your pronoun(s) so we can refer to you correctly.,8,1
+pronouns,custom,Please share your gender pronouns.,8,1
+pronouns,custom,Please share your pronouns (optional).,8,1
+pronouns,custom,Pronouns (the pronouns you use),8,1
+pronouns,custom,"What are your preferred gender pronouns? (She/Her/Hers; He/Him/His; They/Them/Theirs, etc.)",8,1
+pronouns,custom,What are your pronouns? (select any/all that apply),8,1
+pronouns,custom,"[Optional, if ""other"" is selected above] My pronouns are",8,1
+pronouns,custom,[Optional] Pronouns - how should we refer to you in the third person?,8,1
+pronouns,custom,What is your Preferred Pronoun?,7,1
+pronouns,demographic,Preferred Pronouns,7,1
+pronouns,custom,Preferred Pronouns,3,1
+pronouns,custom,What is your preferred pronoun?,2,2
+pronouns,custom,"What pronouns would like others to use when referring to you? Ex. he/him/his, she/her/hers, they/them/their, Ze/Zir/Zirs",2,1
+orientation,demographic,How would you describe your sexual orientation? (mark all that apply),106,19
+orientation,demographic,How would you describe your sexual orientation?,40,9
+orientation,custom,Do you identify as a member of the LGBTQIA+ community?,8,1
+orientation,demographic,"Do you consider yourself a member of the Lesbian, Gay, Bisexual, Transgender, Queer/Questioning Community?",8,1
+orientation,demographic,I consider myself a member of the LGBTQ+ community. (optional),8,1
+orientation,demographic,I identify my sexual orientation as (please select one):,8,1
+orientation,demographic,I identify my sexual orientation as:,8,1
+orientation,demographic,Love is love | What is your sexual orientation?,8,1
+orientation,demographic,What sexual orientation do you most closely identify with?,8,1
+orientation,demographic,Do you identify as part of the LGBTQ+ community?,7,1
+orientation,demographic,Voluntary Self-Identification of Sexual Orientation,7,1
+orientation,demographic,Sexual orientation (Mark all that apply),4,1
+transgender,demographic,Do you identify as transgender?,133,26
+transgender,demographic,I identify as transgender:,12,2
+transgender,custom,Do you identify as non-binary and/or transgender?,8,1
+transgender,demographic,Are you a person of transgender experience?,8,1
+transgender,demographic,"Do you consider yourself a member of the Lesbian, Gay, Bisexual, Transgender, Queer/Questioning Community?",8,1
+transgender,demographic,I identify as transgender (please select one):,8,1
+transgender,demographic,Would you describe yourself as transgender?,8,1
+transgender,demographic,Do you identify as transgender? (select one),7,1
+race,eeoc,Race,672,110
+race,demographic,How would you describe your racial/ethnic background? (mark all that apply),114,20
+race,demographic,How would you describe your racial/ethnic background?,48,10
+race,demographic,Race/Ethnicity,30,4
+race,demographic,How do you identify? (race/ethnicity),16,2
+race,demographic,Race,15,2
+race,custom,Please indicate your race or ethnicity:,8,1
+race,custom,Please specify the race/ethnicity you identify with (select any/all that apply):,8,1
+race,demographic,Are you Hispanic/Latino?,8,1
+race,demographic,Ethnicity and race | Race is a social construct and no group is a monolith. How would you describe yourself?,8,1
+race,demographic,I identify my race / ethnicity as (select all that apply):,8,1
+race,demographic,I identify my race/ethnicity as (mark all that apply):,8,1
+race,demographic,I identify my race/ethnicity as (please mark all that apply):,8,1
+race,demographic,Please identify your ethnicity.,8,1
+race,demographic,Please identify your race.,8,1
+race,demographic,Please select the ethnicity which most accurately describes how you identify yourself,8,1
+race,demographic,Please select up to 2 ethnicities that you most closely identify with.,8,1
+race,demographic,Race (*Please select one option that best describes how you identify*),8,1
+race,demographic,Race and Ethnicity,8,1
+race,demographic,Race or Ethnicity,8,1
+race,demographic,Race or Ethnicity (optional),8,1
+race,demographic,Race: Please select the racial category with which you most closely identify with.,8,1
+race,demographic,Voluntary Self-Identification of Race/Ethnicity (Check all that apply),8,1
+race,demographic,Voluntary Self-Identification of Race/Ethnicity,7,1
+race,demographic,What is your race or ethnicity?,7,1
+race,demographic,I identify my race as,5,1
+race,demographic,Ethnicity (Mark all that apply):,4,1
+race,demographic,Race/Ethnicity (Select all that apply),4,1
+veteran,eeoc,VeteranStatus,672,110
+veteran,demographic,Are you a veteran or active member of the United States Armed Forces?,149,28
+veteran,demographic,Veteran Status,62,9
+veteran,demographic,Protected Veteran Status,15,2
+veteran,demographic,Veteran Status:,12,2
+veteran,custom,What is your veteran status?,8,1
+veteran,demographic,Are you a spouse or domestic partner to a veteran?,8,1
+veteran,demographic,Are you a veteran/have you served in the military?,8,1
+veteran,demographic,"If you are based in the US, what is your veteran status?",8,1
+veteran,demographic,My veteran status is:,8,1
+veteran,demographic,Please identify your veteran status.,8,1
+veteran,demographic,Veteran Status (please select one):,8,1
+veteran,demographic,Veteran status | Are you a veteran?,8,1
+veteran,demographic,Voluntary Self-Identification of Veteran Status (Select one),8,1
+veteran,demographic,Are you a veteran or active member of the United States Armed Forces? (select one),7,1
+veteran,custom,Voluntary Self-Identification - Veteran,5,1
+disability,demographic,"Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning?",112,24
+disability,demographic,Disability Status,24,3
+disability,eeoc,DisabilityStatus,21,8
+disability,demographic,"Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication, and learning?",16,2
+disability,custom,The Americans with Disabilities Act (ADA) is a federal civil rights law that prohibits discrimination against people with disabilities in everyday activities.,8,1
+disability,demographic,"Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), & learning",8,1
+disability,demographic,"Do you have a physical or mental disability, impairment, or condition that substantially limits major life activity?",8,1
+disability,demographic,Do you live with a disability (as outlined by the ADA)?,8,1
+disability,demographic,I have a disability (please select one):,8,1
+disability,demographic,I have a disability:,8,1
+disability,demographic,Voluntary self-identification of disability | Please select,8,1
+disability,demographic,Would you say you have a disability?,8,1
+disability,custom,"Avride complies with the Americans with Disabilities Act (ADA). Can you perform the essential functions of the position for which you are applying, with or without reasonable accommodation?",7,1
+disability,demographic,"Do you have a disability or chronic condition (physical, visual, auditory, cognitive, mental, emotional, or other) that substantially limits one or more of your major life activities, including mobility, communication (seeing, hearing, speaking), and learning? (select one)",7,1
+disability,demographic,What is your disability status?,7,1
+disability,demographic,"Do you consider yourself to have a disability or health condition that significantly limits any major life activities, such as mobility, communication, or learning?",6,1
+disability,demographic,I have a physical disability,5,1
+disability,custom,Voluntary Self-Identification - Disability,4,1
+disability,demographic,Disability Status:,4,1
+disability,custom,Voluntary Self Identification - Disability,1,1
