@@ -1,0 +1,77 @@
+{
+  "fetched_on": "2026-11-16",
+  "source": "Greenhouse Job Board API",
+  "per_board_limit": 8,
+  "forms": 1297,
+  "employers": 171,
+  "questions_per_form": {
+    "median": 17,
+    "max": 38
+  },
+  "required_per_form": {
+    "median": 10,
+    "max": 28
+  },
+  "employers_asking": {
+    "gender": 135,
+    "pronouns": 22,
+    "orientation": 36,
+    "transgender": 33,
+    "race": 136,
+    "veteran": 132,
+    "disability": 46
+  },
+  "employers_requiring_an_answer": {
+    "gender": 23,
+    "pronouns": 5,
+    "orientation": 8,
+    "transgender": 6,
+    "race": 24,
+    "veteran": 21,
+    "disability": 15
+  },
+  "required_without_decline_choice": {
+    "gender": {
+      "employers": [],
+      "free_text": [],
+      "fixed_list": []
+    },
+    "pronouns": {
+      "employers": [
+        "creativex",
+        "muckrack",
+        "vts"
+      ],
+      "free_text": [
+        "creativex",
+        "muckrack"
+      ],
+      "fixed_list": [
+        "vts"
+      ]
+    },
+    "orientation": {
+      "employers": [],
+      "free_text": [],
+      "fixed_list": []
+    },
+    "transgender": {
+      "employers": [],
+      "free_text": [],
+      "fixed_list": []
+    }
+  },
+  "written_answer_required": {
+    "forms": 348,
+    "employers": 83
+  },
+  "gender_source_employers": {
+    "standard EEO block only": 78,
+    "employer's own question only": 25,
+    "both": 32,
+    "not asked": 36
+  },
+  "employers_with_eeoc_section_question": 110,
+  "employers_with_demographic_section_question": 56,
+  "employers_with_custom_section_question": 171
+}
